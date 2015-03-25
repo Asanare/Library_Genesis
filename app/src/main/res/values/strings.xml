@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Library Genesis</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="header">Enter your search term</string>
+</resources>
